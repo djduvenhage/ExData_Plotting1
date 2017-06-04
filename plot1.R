@@ -2,11 +2,11 @@
 
 # Important:
 #            Set a working directory and file path where you want to work and manipulate the data 
-setwd("C:\\Users\\Dawid J Duvenhage\\Desktop\\Coursera Courses\\Data Scientist Specialization\\4_Exploratory Data Analysis Course\\Week 1 Lectures_ExpDA\\")
+setwd("yourWORKINGDIRCTORYhere"")
 
 # Important:
 #            Set correct file path below, before the "\\Assignment1"
-filepath <- "C:\\Users\\Dawid J Duvenhage\\Desktop\\Coursera Courses\\Data Scientist Specialization\\4_Exploratory Data Analysis Course\\Week 1 Lectures_ExpDA\\Assignment1"
+filepath <- "yourWORKINGDIRCTORYhere\\Assignment1"
 
 # Load Libraries to use.
 library(lubridate)
